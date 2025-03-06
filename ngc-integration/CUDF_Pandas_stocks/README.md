@@ -1,5 +1,5 @@
 # Description
-  In this project, we provide notebooks to compare execution time of dataset operations running on traditional Pandas (CPU) and in NVidia's CUDF Pandas extension, which is accelerated on GPU. This exemple is presented in two different ways
+  In this project, we provide notebooks to compare execution time of dataset operations running on traditional Pandas (CPU) and in NVidia's CUDF Pandas extension, which is accelerated on GPU. This example is presented in two different ways:
   * **original-example**: Example as created by NVidia, runs all the evaluation inside the Notebook code (including downloading data and restarting Kernel to activate extension)
   * **Separated Notebooks**: Uses differenty sized datasets from Data-Fabric, running in different notebooks (one for CPU, other for GPU), and logging the results with MLFlow
 

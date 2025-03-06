@@ -1,6 +1,6 @@
 # Data Science with Z by HP AI Studio
 
-This is a proposal for an initial structure of public repositories for educational material and demos. The main idea here is to make available a set of 15+ notebooks with end-to-end experiments split into subjects according to different topics. This way, we would have smaller repos (with no more than 5 experiments) - avoiding the current scenario of having to download a single big repo to run any experiment, but also without having too many different repos to give maintenance.
+Welcome! The goal of this repository and its contents is to provide a set of 15+ notebooks to help you realize the value of AI Studio (AIS) in your data science efforts. This repo has end-to-end experiments highlighting various activities and methodologies you can use within AIS to accelerate your efforts. The repo is split into subjects according to different topics. 
 
 
 1. [Using AI Studio in 6 Steps](#first-course)
@@ -26,17 +26,18 @@ This is a proposal for an initial structure of public repositories for education
    4. [Code Generation](#section4-4)
    5. [Text Generation](#section4-5)
 
-Below, we find a description of each specific subject/repository, as well as the intended demos/tutorials to be included on each one
+
+# Descriptions
 
 <a id=first-course> </a>
 
 ## 1. Using AI Studio features in 6 steps 
-* Currently saved on ai-studio fundamentals folder
+Within the ai-studio fundamentals folder you can find examples of various of basic experiments to help familiarize you with AI Studio. 
 
-This repo would have a different structure than the other ones. Five different notebooks would be used to illustrate different foundational features of AI Studio, in separate tutorials. These notebooks are:
-  * Iris classification: One of the most traditional examples in ML, this notebook will be used to illustrate the most simple usage of AI Studio (section 1)
+The notebooks contained within the ai_studio fundamentals folder include:
+  * Iris classification: One of the most traditional examples in ML, this notebook can be used to illustrate the most simple usage of AI Studio (section 1)
   * Movie experiment: This notebook is an example of a recommendation system, which can be used to show features as Data Fabric, ML Flow and Tensorboard monitoring and model deployment.
-  * Tale of two cities: A nice example for different data visualization techniques, can also be used to demonstrate data fabric and installation of libraries/customization of environments
+  * Tale of two cities: This is a nice example for different data visualization techniques. It can also be used to demonstrate data fabric and installation of libraries/customization of environments
   * MNIST classification: End-to-end introdutory example of Computer Vision with AI Studio
   * Spam Classification: End-to-end introdutory example of Natural Language Processing with AI Studio
 
