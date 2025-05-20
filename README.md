@@ -1,4 +1,4 @@
-# Data Science with Z by HP AI Studio
+# Data Science with Z by HP AI Studio - My repository structure is fairly new. Please excuse if it is not perfect as I learn the ropes of Github.  Thank you for your understanding. 
 
 This is a proposal for an initial structure of public repositories for educational material and demos. The main idea here is to make available a set of 15+ notebooks with end-to-end experiments split into subjects according to different topics. This way, we would have smaller repos (with no more than 5 experiments) - avoiding the current scenario of having to download a single big repo to run any experiment, but also without having too many different repos to give maintenance.
 
